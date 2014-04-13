@@ -1,0 +1,11 @@
+<model>
+<entity name="Person">
+	<attribute name="Name" type="string" />
+	<attribute name="Age" type="int" />
+</entity>
+<entity name="Pet">
+	<attribute name="Name" type="string" />
+	<attribute name="Age" type="int" />
+	<attribute name="Breed" type="string" />
+</entity>
+</model>
